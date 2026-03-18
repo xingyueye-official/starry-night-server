@@ -11,8 +11,8 @@ discordChannelID: ""                           # 留空即可
 
 
 # Set this website's info
-url: "https://github.com/xingyueye-official/starry-night-server.git"    # 比如我叫abc，就填 https://abc.github.io
-baseurl: "/moonrise"                       # 保持不变（和你的仓库名一致）
+url: "https://xingyueye-official.github.io/starry-night-server"    # 比如我叫abc，就填 https://abc.github.io
+baseurl: ""                       # 保持不变（和你的仓库名一致）
 siteTitle: 星月夜服务器                     # 浏览器标签页显示的名字
 siteYear: 2026                             # 改成当前年份
 siteFooterLink: /about                     # 保持不变
