@@ -1,0 +1,46 @@
+# Set basic server info
+serverName: 星月夜的养老、生存服务器       # 你的服务器全名
+serverDescription: 版本1.21.11 | 养老生存 | 每天晚上开服  # 服务器介绍/标语
+serverIP: cn-gz-1.qwq.fan:11092           # 你的服务器IP+端口
+useBedrockForOnlineStatus: false          # 保持false（Java版服务器）
+
+# Discord information（改成你的QQ群）
+discordInvite: https://qm.qq.com/q/1080575695  # QQ群邀请链接（没有就留空）
+discordServerID: 1080575695                   # 你的QQ群号
+discordChannelID: ""                           # 留空即可
+
+
+# Set this website's info
+url: "https://github.com/xingyueye-official/starry-night-server.git"    # 比如我叫abc，就填 https://abc.github.io
+baseurl: "/moonrise"                       # 保持不变（和你的仓库名一致）
+siteTitle: 星月夜服务器                     # 浏览器标签页显示的名字
+siteYear: 2026                             # 改成当前年份
+siteFooterLink: /about                     # 保持不变
+showInSearchEngines: true                  # 保持true
+# 
+# siteNav:
+#   - name: Server Map
+#     url: map
+#     newtab: true
+#   - name: Screenshots
+#     url: screenshots
+#   - name: About
+#     url: about
+
+
+# Don't change anything below here, these are defaults set by GitHub Pages:
+# ======
+theme: minima
+# plugins:
+#   - jekyll-feed
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
